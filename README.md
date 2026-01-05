@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m a physics student about to graduate.
-- 🌱 I’m currently learning diferent maching learning models.
+- 🌱 I’m currently learning different maching learning models.
 - 👯 I’m looking forward to collaborating on data-science projects or conducting research in deep learning.
 - 📫 You can reach me at cuauhtlidiaz10@gmail.com.
 - 😄 Nicknames: **Cuau**.
